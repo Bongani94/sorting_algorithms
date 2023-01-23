@@ -58,3 +58,4 @@ void cocktail_sort_list(listint_t **list)
 		first = check;
 	} while (first != last);
 }
+
